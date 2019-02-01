@@ -1,0 +1,64 @@
+/* remove default margin and padding from body */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* set map, body, and html to 100% of the screen size */
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.info-legend {
+  border-radius: 15px;
+  background-color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  text-align: center
+}
+
+.m1 {
+  background-color: green;
+  border-color: black;
+  height: 20px;
+  width: 80px;
+  font-weight: bold
+}
+.m2 {
+  background-color: greenyellow;
+  border-color: black;
+  height: 20px;
+  width: 80px;
+  font-weight: bold
+}
+.m3 {
+  background-color: gold;
+  border-color: black;
+  height: 20px;
+  width: 80px;
+  font-weight: bold
+}
+.m4 {
+  background-color: darkorange;
+  border-color: black;
+  height: 20px;
+  width: 80px;
+  font-weight: bold
+}
+.m5 {
+  background-color: chocolate;
+  border-color: black;
+  height: 20px;
+  width: 80px;
+  font-weight: bold
+}
+.m6 {
+  background-color: firebrick;
+  border-color: black;
+  height: 20px;
+  width: 80px;
+  font-weight: bold
+}
